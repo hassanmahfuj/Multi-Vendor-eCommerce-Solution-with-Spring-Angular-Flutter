@@ -11,8 +11,8 @@ This project aims to create a comprehensive online marketplace platform that all
 
 # ScreenShots
 - [Customer Features Screenshots](/CustomerFeaturesScreenshots.md)
-- Seller Features Screenshots
-- Admin Features Screenshots
+- [Seller Features Screenshots](/SellerFeaturesScreenshots.md)
+- [Admin Features Screenshots](/AdminFeaturesScreenshots.md)
 
 # Features
 ## Customer Features
