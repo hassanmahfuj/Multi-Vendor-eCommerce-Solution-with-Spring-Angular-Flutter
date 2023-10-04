@@ -42,10 +42,10 @@
 
 ![localhost_4200_customer_auth (1)](https://github.com/hassanmahfuj/Multi-Vendor-eCommerce-Solution-with-Spring-Angular-Flutter/assets/37881727/54386a9d-7293-4b5b-9190-46460bac95a9)
 
-## 12. Promotions and Discounts:
+## 11. Promotions and Discounts:
 
 ![localhost_4200_customer_order_1055](https://github.com/hassanmahfuj/Multi-Vendor-eCommerce-Solution-with-Spring-Angular-Flutter/assets/37881727/901b8e81-f1c0-4fe7-8478-e1c5de67c330)
 
-## 13. Return and Refund Process:
+## 12. Return and Refund Process:
 
 ![localhost_4200_customer_order_1055 (1)](https://github.com/hassanmahfuj/Multi-Vendor-eCommerce-Solution-with-Spring-Angular-Flutter/assets/37881727/005843ac-031d-486c-8df8-aa4042235d2c)
