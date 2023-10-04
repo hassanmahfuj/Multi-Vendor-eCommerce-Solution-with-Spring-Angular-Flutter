@@ -10,7 +10,7 @@ This project aims to create a comprehensive online marketplace platform that all
 * [Flutter Mobile App](https://github.com/hassanmahfuj/ShopSense-Flutter)
 
 # ScreenShots
-- Customer Features Screenshots
+- [Customer Features Screenshots](/CustomerFeaturesScreenshots.md)
 - Seller Features Screenshots
 - Admin Features Screenshots
 
